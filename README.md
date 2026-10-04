@@ -1,0 +1,2 @@
+# maya-web-test
+# Dependencies node_modules/  # Environment variables .env .env.* !.env.example  # Build output dist/ build/ out/  # Logs *.log logs/  # OS files .DS_Store Thumbs.db  # IDE .vscode/ .idea/  # Temporary files *.tmp *.temp  # Local development .local/
